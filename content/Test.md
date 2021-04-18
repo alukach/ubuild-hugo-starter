@@ -1,6 +1,6 @@
 +++
 draft = true
-layout = "default"
+layout = "default1"
 
 +++
 This is a test
